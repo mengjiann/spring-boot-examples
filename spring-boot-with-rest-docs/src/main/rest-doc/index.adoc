@@ -1,0 +1,19 @@
+= Sample Spring Boot Rest Docs Documentation
+
+== Introduction
+This is the documentation for list of restful API.
+
+=== Hello World API
+Return hello world as String.
+
+==== Sample Request
+include::{snippets}/hello-world/http-request.adoc[]
+
+==== Request Parameters
+include::{snippets}/hello-world/request-parameters.adoc[]
+
+==== Sample Response
+include::{snippets}/hello-world/http-response.adoc[]
+
+==== CURL sample
+include::{snippets}/hello-world/curl-request.adoc[]
