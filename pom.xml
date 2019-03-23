@@ -40,6 +40,7 @@
     <module>spring-boot-with-flyway</module>
     <module>spring-boot-with-rest-docs</module>
     <module>spring-boot-with-javers</module>
+    <module>spring-boot-with-querydsl</module>
   </modules>
 
 
