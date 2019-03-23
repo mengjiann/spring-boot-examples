@@ -42,6 +42,7 @@
     <module>spring-boot-with-javers</module>
     <module>spring-boot-with-querydsl</module>
     <module>spring-boot-with-auth-ldap</module>
+    <module>spring-boot-with-auth-oauth2</module>
   </modules>
 
 
