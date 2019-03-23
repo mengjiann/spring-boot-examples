@@ -41,6 +41,7 @@
     <module>spring-boot-with-rest-docs</module>
     <module>spring-boot-with-javers</module>
     <module>spring-boot-with-querydsl</module>
+    <module>spring-boot-with-auth-ldap</module>
   </modules>
 
 
